@@ -1,5 +1,5 @@
 
-Administrator@LY-201603251851 MINGW64 /d/¥´÷«≤•øÕdocument-–§∆Ω/webstorm xiaoping                                                      /0016.Õı≥Øª™¿œ ¶NODE£¨GIT£¨npm,øÚº‹Ω·ππ/01.—ßœ∞git-–§∆Ω/10.≈‰÷√ssh–§∆Ω
+Administrator@LY-201603251851 MINGW64 /d/‰º†Êô∫Êí≠ÂÆ¢document-ËÇñÂπ≥/webstorm xiaoping                                                      /0016.ÁéãÊúùÂçéËÄÅÂ∏àNODEÔºåGITÔºånpm,Ê°ÜÊû∂ÁªìÊûÑ/01.Â≠¶‰π†git-ËÇñÂπ≥/10.ÈÖçÁΩÆsshËÇñÂπ≥
 $ git config --list
 core.symlinks=false
 core.autocrlf=true
@@ -19,7 +19,7 @@ filter.lfs.clean=git-lfs clean -- %f
 filter.lfs.smudge=git-lfs smudge -- %f
 filter.lfs.required=true
 
-Administrator@LY-201603251851 MINGW64 /d/¥´÷«≤•øÕdocu                                                                                 ment-–§∆Ω/webstorm xiaoping/0016.Õı≥Øª™¿œ ¶NODE£¨GIT                                                                                 £¨npm,øÚº‹Ω·ππ/01.—ßœ∞git-–§∆Ω/10.≈‰÷√ssh–§∆Ω
+Administrator@LY-201603251851 MINGW64 /d/‰º†Êô∫Êí≠ÂÆ¢docu                                                                                 ment-ËÇñÂπ≥/webstorm xiaoping/0016.ÁéãÊúùÂçéËÄÅÂ∏àNODEÔºåGIT                                                                                 Ôºånpm,Ê°ÜÊû∂ÁªìÊûÑ/01.Â≠¶‰π†git-ËÇñÂπ≥/10.ÈÖçÁΩÆsshËÇñÂπ≥
 $ ssh-keygen -t rsa -C "godxkey@outlook.com"
 Generating public/private rsa key pair.
 Enter file in which to save the key (/c/Users/Adminis                                                                                 trator/.ssh/id_rsa):
@@ -42,38 +42,67 @@ The key's randomart image is:
 |              .  |
 +----[SHA256]-----+
 
-Administrator@LY-201603251851 MINGW64 /d/¥´÷«≤•øÕdocu                                                                                 ment-–§∆Ω/webstorm xiaoping/0016.Õı≥Øª™¿œ ¶NODE£¨GIT                                                                                 £¨npm,øÚº‹Ω·ππ/01.—ßœ∞git-–§∆Ω/10.≈‰÷√ssh–§∆Ω
+Administrator@LY-201603251851 MINGW64 /d/‰º†Êô∫Êí≠ÂÆ¢docu                                                                                 ment-ËÇñÂπ≥/webstorm xiaoping/0016.ÁéãÊúùÂçéËÄÅÂ∏àNODEÔºåGIT                                                                                 Ôºånpm,Ê°ÜÊû∂ÁªìÊûÑ/01.Â≠¶‰π†git-ËÇñÂπ≥/10.ÈÖçÁΩÆsshËÇñÂπ≥
 $
 
 
 
 
 
-°æøÕªß∂À≤Ÿ◊˜°ø
+„ÄêÂÆ¢Êà∑Á´ØÊìç‰Ωú„Äë
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/o6EUj9Y0ZIsTkEtwfwTsqoI3s9RbXbMd5HXwPnPynWFW5TVRcajLuqcF2yd9maw+ZRIFuBgsjnODVCg23cnwBvYFZnDqvbZk6IIYU0tKPQ7dgs4QaVqwWXiSH6ixm1aXFeGCtFMJQJ5211CZRz+6FP251JqIoremkLzRK95mK28ZecxVUz1rb5LrRrrnckbk6y9q4MvClQbRl4Iswnxj9JKvQwZZ7TGKoIPcWmxmFeamTA2s5rsQp/2lMe1P1ByzA42lhgQBP65A3/puFswgUgi5nGRLxEGT7TKhF/M7wNKd/3SZSJebPFkTvI33v9X3drh3fC6ebOAZhxqzeZUZ godxkey@outlook.com
 
-µ⁄2≤Ω£∫µ«¬ΩGitHub£¨¥Úø™°∞Account settings°±£¨°∞SSH Keys°±“≥√Ê£∫
+Á¨¨2Ê≠•ÔºöÁôªÈôÜGitHubÔºåÊâìÂºÄ‚ÄúAccount settings‚ÄùÔºå‚ÄúSSH Keys‚ÄùÈ°µÈù¢Ôºö
 
-»ª∫Û£¨µ„°∞Add SSH Key°±£¨ÃÓ…œ»Œ“‚Title£¨‘⁄KeyŒƒ±æøÚ¿Ô’≥Ã˘id_rsa.pubŒƒº˛µƒƒ⁄»›£∫
+ÁÑ∂ÂêéÔºåÁÇπ‚ÄúAdd SSH Key‚ÄùÔºåÂ°´‰∏ä‰ªªÊÑèTitleÔºåÂú®KeyÊñáÊú¨Ê°ÜÈáåÁ≤òË¥¥id_rsa.pubÊñá‰ª∂ÁöÑÂÜÖÂÆπÔºö
 
 github-addkey-1
 
-µ„°∞Add Key°±£¨ƒ„æÕ”¶∏√ø¥µΩ“—æ≠ÃÌº”µƒKey£∫
+ÁÇπ‚ÄúAdd Key‚ÄùÔºå‰Ω†Â∞±Â∫îËØ•ÁúãÂà∞Â∑≤ÁªèÊ∑ªÂä†ÁöÑKeyÔºö
 
 github-addkey-2
 
-Œ™ ≤√¥GitHub–Ë“™SSH Keyƒÿ£ø“ÚŒ™GitHub–Ë“™ ∂±≥ˆƒ„Õ∆ÀÕµƒÃ·Ωª»∑ µ «ƒ„Õ∆ÀÕµƒ£¨∂¯≤ª «±»À√∞≥‰µƒ£¨∂¯Git÷ß≥÷SSH–≠“È£¨À˘“‘£¨GitHub÷ª“™÷™µ¿¡Àƒ„µƒπ´‘ø£¨æÕø…“‘»∑»œ÷ª”–ƒ„◊‘º∫≤≈ƒ‹Õ∆ÀÕ°£
+‰∏∫‰ªÄ‰πàGitHubÈúÄË¶ÅSSH KeyÂë¢ÔºüÂõ†‰∏∫GitHubÈúÄË¶ÅËØÜÂà´Âá∫‰Ω†Êé®ÈÄÅÁöÑÊèê‰∫§Á°ÆÂÆûÊòØ‰Ω†Êé®ÈÄÅÁöÑÔºåËÄå‰∏çÊòØÂà´‰∫∫ÂÜíÂÖÖÁöÑÔºåËÄåGitÊîØÊåÅSSHÂçèËÆÆÔºåÊâÄ‰ª•ÔºåGitHubÂè™Ë¶ÅÁü•ÈÅì‰∫Ü‰Ω†ÁöÑÂÖ¨Èí•ÔºåÂ∞±ÂèØ‰ª•Á°ÆËÆ§Âè™Êúâ‰Ω†Ëá™Â∑±ÊâçËÉΩÊé®ÈÄÅ„ÄÇ
 
-µ±»ª£¨GitHub‘ –Ìƒ„ÃÌº”∂‡∏ˆKey°£ºŸ∂®ƒ„”–»Ù∏…µÁƒ‘£¨ƒ„“ªª·∂˘‘⁄π´ÀæÃ·Ωª£¨“ªª·∂˘‘⁄º“¿ÔÃ·Ωª£¨÷ª“™∞—√øÃ®µÁƒ‘µƒKey∂ºÃÌº”µΩGitHub£¨æÕø…“‘‘⁄√øÃ®µÁƒ‘…œÕ˘GitHubÕ∆ÀÕ¡À°£
+ÂΩìÁÑ∂ÔºåGitHubÂÖÅËÆ∏‰Ω†Ê∑ªÂä†Â§ö‰∏™Key„ÄÇÂÅáÂÆö‰Ω†ÊúâËã•Âπ≤ÁîµËÑëÔºå‰Ω†‰∏Ä‰ºöÂÑøÂú®ÂÖ¨Âè∏Êèê‰∫§Ôºå‰∏Ä‰ºöÂÑøÂú®ÂÆ∂ÈáåÊèê‰∫§ÔºåÂè™Ë¶ÅÊääÊØèÂè∞ÁîµËÑëÁöÑKeyÈÉΩÊ∑ªÂä†Âà∞GitHubÔºåÂ∞±ÂèØ‰ª•Âú®ÊØèÂè∞ÁîµËÑë‰∏äÂæÄGitHubÊé®ÈÄÅ‰∫Ü„ÄÇ
 
-œ÷‘⁄£¨Œ“√«∏˘æ›GitHubµƒÃ· æ£¨‘⁄±æµÿµƒlearngit≤÷ø‚œ¬‘À––√¸¡Ó£∫
+Áé∞Âú®ÔºåÊàë‰ª¨Ê†πÊçÆGitHubÁöÑÊèêÁ§∫ÔºåÂú®Êú¨Âú∞ÁöÑlearngit‰ªìÂ∫ì‰∏ãËøêË°åÂëΩ‰ª§Ôºö
 
 $ git remote add origin git@github.com:cqcre/cqc.git
-«Î«ßÕÚ◊¢“‚£¨∞—…œ√Êµƒ cqcre ÃÊªª≥…ƒ„◊‘º∫µƒGitHub’Àªß√˚£¨∑Ò‘Ú£¨ƒ„‘⁄±æµÿπÿ¡™µƒæÕ «Œ“µƒ‘∂≥Ãø‚£¨πÿ¡™√ª”–Œ Ã‚£¨µ´ «ƒ„“‘∫ÛÕ∆ÀÕ «Õ∆≤ª…œ»•µƒ£¨“ÚŒ™ƒ„µƒSSH Keyπ´‘ø≤ª‘⁄Œ“µƒ’Àªß¡–±Ì÷–°£
+ËØ∑ÂçÉ‰∏áÊ≥®ÊÑèÔºåÊää‰∏äÈù¢ÁöÑ cqcre ÊõøÊç¢Êàê‰Ω†Ëá™Â∑±ÁöÑGitHubË¥¶Êà∑ÂêçÔºåÂê¶ÂàôÔºå‰Ω†Âú®Êú¨Âú∞ÂÖ≥ËÅîÁöÑÂ∞±ÊòØÊàëÁöÑËøúÁ®ãÂ∫ìÔºåÂÖ≥ËÅîÊ≤°ÊúâÈóÆÈ¢òÔºå‰ΩÜÊòØ‰Ω†‰ª•ÂêéÊé®ÈÄÅÊòØÊé®‰∏ç‰∏äÂéªÁöÑÔºåÂõ†‰∏∫‰Ω†ÁöÑSSH KeyÂÖ¨Èí•‰∏çÂú®ÊàëÁöÑË¥¶Êà∑ÂàóË°®‰∏≠„ÄÇ
 
-ÃÌº”∫Û£¨‘∂≥Ãø‚µƒ√˚◊÷æÕ «origin£¨’‚ «Gitƒ¨»œµƒΩ–∑®£¨“≤ø…“‘∏ƒ≥…±µƒ£¨µ´ «origin’‚∏ˆ√˚◊÷“ªø¥æÕ÷™µ¿ «‘∂≥Ãø‚°£
+Ê∑ªÂä†ÂêéÔºåËøúÁ®ãÂ∫ìÁöÑÂêçÂ≠óÂ∞±ÊòØoriginÔºåËøôÊòØGitÈªòËÆ§ÁöÑÂè´Ê≥ïÔºå‰πüÂèØ‰ª•ÊîπÊàêÂà´ÁöÑÔºå‰ΩÜÊòØoriginËøô‰∏™ÂêçÂ≠ó‰∏ÄÁúãÂ∞±Áü•ÈÅìÊòØËøúÁ®ãÂ∫ì„ÄÇ
 
-œ¬“ª≤Ω£¨æÕø…“‘∞—±æµÿø‚µƒÀ˘”–ƒ⁄»›Õ∆ÀÕµΩ‘∂≥Ãø‚…œ£∫
+‰∏ã‰∏ÄÊ≠•ÔºåÂ∞±ÂèØ‰ª•ÊääÊú¨Âú∞Â∫ìÁöÑÊâÄÊúâÂÜÖÂÆπÊé®ÈÄÅÂà∞ËøúÁ®ãÂ∫ì‰∏äÔºö
 
 $ git push -u origin master
-∫√¿≤£¨æ≤æ≤µ»¥˝git∞—ƒ„µƒ¥˙¬ÎPush…œ»•∞…
+Â•ΩÂï¶ÔºåÈùôÈùôÁ≠âÂæÖgitÊää‰Ω†ÁöÑ‰ª£Á†ÅPush‰∏äÂéªÂêß
+
+[ÊàêÂäüÊ≠•È™§]
+Quick setup ‚Äî if you‚Äôve done this kind of thing before
+ Set up in Desktop	or	
+ HTTPS
+ SSH
+
+git@github.com:godxkey/testSSH.git
+
+We recommend every repository include a README, LICENSE, and .gitignore.
+‚Ä¶or create a new repository on the command line
+
+echo "# testSSH" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:godxkey/testSSH.git
+git push -u origin master
+‚Ä¶or push an existing repository from the command line
+
+git remote add origin git@github.com:godxkey/testSSH.git
+git push -u origin master
+‚Ä¶or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Import code
+
+
+„Äêhttps://github.com/godxkey/testSSH„Äë
